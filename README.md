@@ -1,11 +1,97 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/3c/df/aa/3cdfaa826b40efdc80c00b5d914399f9.gif" height="200px">
-  
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fef55b07-492c-4906-8a6d-4bd0ed0ff8b6" />
+</div>
 
+<div align="center">
 
-  
+```
+building things that (hopefully) don't break
+```
 
-<p>6-star python badge in hackerrank  
-</p>
-<img src="https://lastfm-recently-played.vercel.app/api?user=qrexxed&bg_color=0d1117A0&border_radius=5&header_style=none&count=1&footer_style=none&width=400">
+</div>
+
+---
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## ◈ about me
+
+hey, i'm **zeyad** — a full-stack developer who enjoys building websites, backend systems, and the occasional tool that scratches my own itch.
+
+- 🛠️ i like making things simple, fast, and easy to understand
+- 🌐 currently building websites for clients and learning as i go
+- 🧠 always poking at how computers actually work under the hood
+- 📍 egypt
+
+</td>
+<td width="5%"></td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://i.pinimg.com/1200x/d3/be/b4/d3beb4a4febf7c84f64bfddcb8b1712b.jpg" width="280" style="border-radius:12px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,cs,java,bash,html,css&theme=dark&perline=5" />
+</div>
+
+## ◈ frameworks & libraries
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vue,electron&theme=dark&perline=6" />
+</div>
+
+## ◈ databases & cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,aws,azure,cloudflare&theme=dark&perline=5" />
+</div>
+
+## ◈ tools & environments
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,arduino,nixos&theme=dark&perline=5" />
+</div>
+
+## ◈ github stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadhost&theme=github_dark" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadhost&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadhost&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadhost&theme=github_dark" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadhost&theme=github_dark&utcOffset=2" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadhost&theme=github_dark" width="49%" />
+</div>
+
+<div align="center">
+  <img src="github-metrics.svg" width="100%" alt="metrics" />
+</div>
+
+---
+
+## ◈ currently listening to
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=899ubvhngb5u479dzqavpqyrr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeyadhost&style=flat&color=ffffff&label=profile+views&labelColor=0d1117" />
 </div>
