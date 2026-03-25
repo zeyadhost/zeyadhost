@@ -22,7 +22,7 @@ hey, i'm **zeyad** — a full-stack developer who enjoys building websites, back
 
 - 🛠️ i like making things simple, fast, and easy to understand
 - 🌐 currently building websites for clients and learning as i go
-- 🧠 always poking at how computers actually work under the hood
+- 🧠 either thinking of an insane and genius or a dumb question about something
 - 📍 egypt
 
 </td>
