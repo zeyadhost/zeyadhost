@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fef55b07-492c-4906-8a6d-4bd0ed0ff8b6" />
+<img width="1700" height="460" alt="github-header-banner" src="https://raw.githubusercontent.com/zeyadhost/zeyadhost/refs/heads/main/banner.png" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@ hey, i'm **zeyad** — a full-stack developer who enjoys building websites, back
 <td width="5%"></td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://i.pinimg.com/1200x/d3/be/b4/d3beb4a4febf7c84f64bfddcb8b1712b.jpg" width="280" style="border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/zeyadhost/zeyadhost/refs/heads/main/widget.jpg" width="280" style="border-radius:12px;" />
 
 </td>
 </tr>
