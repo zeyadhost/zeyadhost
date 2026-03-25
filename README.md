@@ -64,22 +64,7 @@ hey, i'm **zeyad** — a full-stack developer who enjoys building websites, back
 ## ◈ github stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadhost&theme=github_dark" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadhost&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadhost&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadhost&theme=github_dark" width="32%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadhost&theme=github_dark&utcOffset=2" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadhost&theme=github_dark" width="49%" />
-</div>
-
-<div align="center">
-  <img src="github-metrics.svg" width="100%" alt="metrics" />
+  <img src="github-metrics.svg" width="75%" alt="metrics" />
 </div>
 
 ---
