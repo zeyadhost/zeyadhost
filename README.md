@@ -5,8 +5,8 @@ check my [website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 ## Current Projects
 
 - **[Strata](https://github.com/zeyadhost/strata)** — A browser-based mining game (for Ember jam, with [CoolGirlArts](https://coolgirlarts.wixsite.com/coolgirlarts-website))
+- **[Veil](https://github.com/zeyadhost/veil)** - A fast, lightweight WebKit-based browser focused on privacy, control, and Lua extensibility.
 - **[pfetch.me](https://github.com/zeyadhost/pfetch.me)** — A bio-link website but customizability is all yours to tinker with.
-- **[Hazardous Atelier](https://github.com/zeyadhost/atelier)** — A virtual bakery where you create pastries out of anything.
 - **[netpulse](https://github.com/zeyadhost/netpulse)** — real-time network packets visualizer (cava but for network)
 
 <a href="https://github.com/kittinan/spotify-github-profile">
