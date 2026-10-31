@@ -4,10 +4,10 @@ check my [website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 
 ## Current Projects
 
-- **[Engelbart](https://github.com/zeyadhost/engelbart)** — A compile-time USB device compiler for embedded C++
+- **[Verispeed](https://github.com/zeyadhost/verispeed)** — A 3-key macropad with a KiCad PCB and a 3D case
+- **[PicoGB](https://github.com/zeyadhost/picogb)** — Game Boy and Game Boy Color emulator for the Hack Club Sprig (RP2040)
 - **[Strata](https://github.com/zeyadhost/strata)** — A browser-based mining game (for Ember jam, with [CoolGirlArts](https://coolgirlarts.wixsite.com/coolgirlarts-website))
-- **[pfetch.me](https://github.com/zeyadhost/pfetch.me)** — A bio-link website but customizability is all yours to tinker with.
-- **[netpulse](https://github.com/zeyadhost/netpulse)** — real-time network packets visualizer (cava but for network)
+- **[HP ProDesk 600 G3 SFF EFI](https://github.com/zeyadhost/hp-prodesk-600-g3-skylake-monterey-opencore)** — OpenCore EFI for installing macOS Monterey on an HP ProDesk 600 G3 SFF with a Skylake CPU and Intel HD 530 graphics
 
 <!--
 <a href="https://github.com/kittinan/spotify-github-profile">
